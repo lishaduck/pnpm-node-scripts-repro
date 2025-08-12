@@ -1,0 +1,11 @@
+hoist: false
+strictPeerDependencies: true
+autoInstallPeers: false
+strictDepBuilds: true
+shellEmulator: true
+engineStrict: true
+nodeVersion: "20.19.0"
+ignorePatchFailures: false
+verifyDepsBeforeRun: warn
+disallowWorkspaceCycles: true
+catalogMode: strict
